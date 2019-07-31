@@ -1,0 +1,1 @@
+{"jobID":"aec95428-8f23-6f43-1f39-095a3fa2cee4","spec":{"type":"policy","cause":{"Message":"굿","User":"taeho jung \u003cjts3102@hanmail.net\u003e"},"spec":{"default:deployment/wordpress":{"add":{"locked":"true","locked_msg":"굿","locked_user":"taeho jung \u003cjts3102@hanmail.net\u003e"},"remove":null}}},"result":null}
