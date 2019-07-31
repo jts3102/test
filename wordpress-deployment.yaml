@@ -33,7 +33,6 @@ metadata:
   labels:
     app: wordpress
   annotations:
-    flux.weave.works/automated: 'true'
     flux.weave.works/automated_msg: test
     flux.weave.works/automated_user: taeho jung <jts3102@hanmail.net>
 spec:
