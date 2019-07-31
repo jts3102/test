@@ -1,0 +1,1 @@
+{"jobID":"adcac126-3ec9-ca18-6047-a17bc58c940c","spec":{"type":"policy","cause":{"Message":"","User":"taeho jung \u003cjts3102@hanmail.net\u003e"},"spec":{"default:deployment/wordpress":{"add":null,"remove":{"automated":"true"}}}},"result":null}
