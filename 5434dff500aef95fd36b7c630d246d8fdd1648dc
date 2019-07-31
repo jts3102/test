@@ -1,0 +1,1 @@
+{"jobID":"eb97a407-412f-0807-bd38-a5b30f7b057d","spec":{"type":"policy","cause":{"Message":"이제 품","User":"taeho jung \u003cjts3102@hanmail.net\u003e"},"spec":{"default:deployment/wordpress":{"add":null,"remove":{"locked":"true","locked_msg":"\"이제 품\"","locked_user":"taeho jung \u003cjts3102@hanmail.net\u003e"}}}},"result":null}
