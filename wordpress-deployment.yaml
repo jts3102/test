@@ -35,7 +35,6 @@ metadata:
   annotations:
     flux.weave.works/automated_msg: test
     flux.weave.works/automated_user: taeho jung <jts3102@hanmail.net>
-    flux.weave.works/automated: 'true'
 spec:
   selector:
     matchLabels:
