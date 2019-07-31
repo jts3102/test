@@ -33,9 +33,6 @@ metadata:
   labels:
     app: wordpress
   annotations:
-    flux.weave.works/locked_user: taeho jung <jts3102@hanmail.net>
-    flux.weave.works/locked: 'true'
-    flux.weave.works/locked_msg: 굿
     flux.weave.works/automated: 'true'
     flux.weave.works/automated_msg: test
     flux.weave.works/automated_user: taeho jung <jts3102@hanmail.net>
